@@ -1,4 +1,4 @@
 # my_first_project
-<h1>basic html commands</h1>
+<h3>basic html commands</h3>
 <br>
-<h1> @Manasa Gorle</h1>
+<h3> @Manasa Gorle</h3>
